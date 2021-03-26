@@ -1,0 +1,41 @@
+h1 {
+	color: black;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	color: gray;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h3 {
+	color: blue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h4 {
+	color: purple;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h5 {
+	color: red;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h6 {
+	color: orange;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+p {
+	color: green;
+	font-family: sans-serif;
+	text-align: center;
+}
